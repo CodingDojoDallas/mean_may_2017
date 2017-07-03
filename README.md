@@ -24,7 +24,8 @@ https://codingdojo-dallas.slack.com/files/katemoc/F427ZQZPY/github_workflow_v4.p
 [MEAN - Promises and Factories](https://youtu.be/t0u5dHoWb5Q "MEAN - Promises and Factories") <br>
 [MEAN - Products and Orders Demo](https://youtu.be/SYJ-73OEJLs "MEAN - Products and Orders Demo") <br>
 
-
+# Resources
+[W3Schools - JavaScript](https://www.w3schools.com/js/ "W3Schools - JavaScript")
 
 # Schedule
 
